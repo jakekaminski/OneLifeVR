@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{DAD55B4C-793F-494F-0A31-0C897E2B8A63}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/RW/Scripts/PlayerRigSetup.cs">
+    <Files>
+      <File FileName="Assets/RW/Scripts/PlayerRigSetup.cs" Line="40" Column="33" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="QuestTest" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="3f2155cb-08c9-456e-8625-99faa1ba6263" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
