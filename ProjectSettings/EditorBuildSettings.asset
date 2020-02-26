@@ -9,7 +9,7 @@ EditorBuildSettings:
     path: Assets/Low_Poly_Survival/Scenes/Showcase.unity
     guid: 3e0abf75efe2ff54690cfab2e7de11bb
   - enabled: 1
-    path: Assets/Scenes/TestScene.unity
+    path: Assets/Scenes/Nursery.unity
     guid: f1ed769d51d0f4774a128e42655332cc
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: f5cc1b18a3b594e4bb7b9c8389de2a96,

@@ -64,7 +64,6 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\ColorChange.cs" />
-    <Compile Include="Assets\Low_Poly_Survival\Scripts\SimpleCameraController.cs" />
     <Compile Include="Assets\RW\Scripts\ControllerHaptics.cs" />
     <Compile Include="Assets\RW\Scripts\GameManager.cs" />
     <Compile Include="Assets\RW\Scripts\GrabItem.cs" />
