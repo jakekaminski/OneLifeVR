@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{FCB134FD-D4A6-4B27-C2ED-D3C93EA4872D}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Library/PackageCache/com.unity.xr.interaction.toolkit@0.9.3-preview/Runtime/Interaction/Interactables/XRGrabInteractable.cs">
+    <Files>
+      <File FileName="Library/PackageCache/com.unity.xr.interaction.toolkit@0.9.3-preview/Runtime/Interaction/Interactables/XRGrabInteractable.cs" Line="28" Column="37" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="OneLife" expanded="True">
+            <Node name="Assets" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="664ca5c8-172d-4fed-8cdf-7328211ed4a5" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
