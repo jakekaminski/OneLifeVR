@@ -1,13 +1,18 @@
 ﻿<Properties StartupConfiguration="{FCB134FD-D4A6-4B27-C2ED-D3C93EA4872D}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Library/PackageCache/com.unity.xr.interaction.toolkit@0.9.3-preview/Runtime/Interaction/Interactables/XRGrabInteractable.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/MouseLook.cs">
     <Files>
       <File FileName="Library/PackageCache/com.unity.xr.interaction.toolkit@0.9.3-preview/Runtime/Interaction/Interactables/XRGrabInteractable.cs" Line="28" Column="37" />
+      <File FileName="Assets/Scripts/MouseLook.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="OneLife" expanded="True">
-            <Node name="Assets" expanded="True" selected="True" />
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="MouseLook.cs" selected="True" />
+              </Node>
+            </Node>
           </Node>
         </State>
       </Pad>
@@ -15,7 +20,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="664ca5c8-172d-4fed-8cdf-7328211ed4a5" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="30fa1ab3-5526-402d-927a-5c3348d2dd80" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
