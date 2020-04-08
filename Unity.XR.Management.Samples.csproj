@@ -67,12 +67,6 @@
     <Compile Include="Assets\VR\Samples\XR Management\3.0.6\Example XR Management implementation\SampleLoader.cs" />
     <Compile Include="Assets\VR\Samples\XR Management\3.0.6\Example XR Management implementation\SampleSettings.cs" />
     <None Include="Assets\VR\Samples\XR Management\3.0.6\Example XR Management implementation\Unity.XR.Management.Samples.asmdef" />
-    <Reference Include="Unity.XR.Management.Editor">
-      <HintPath>/Users/jakekaminski/Unity-Projects/OneLife/Library/ScriptAssemblies/Unity.XR.Management.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.XR.Management">
-      <HintPath>/Users/jakekaminski/Unity-Projects/OneLife/Library/ScriptAssemblies/Unity.XR.Management.dll</HintPath>
-    </Reference>
     <Reference Include="UnityEditor.UI">
       <HintPath>/Users/jakekaminski/Unity-Projects/OneLife/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
