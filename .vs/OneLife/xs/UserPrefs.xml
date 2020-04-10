@@ -1,11 +1,14 @@
 ﻿<Properties StartupConfiguration="{FCB134FD-D4A6-4B27-C2ED-D3C93EA4872D}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/DialogueManager.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/GameEvents.cs">
     <Files>
-      <File FileName="Assets/Scripts/MouseLook.cs" Line="16" Column="11" />
-      <File FileName="Assets/Scripts/PlayerMovement.cs" Line="29" Column="10" />
-      <File FileName="Assets/Scripts/DialogueManager.cs" Line="55" Column="41" />
-      <File FileName="Assets/Scripts/DialogueTrigger.cs" Line="11" Column="67" />
-      <File FileName="Assets/Scripts/DIalogue.cs" Line="9" Column="1" />
+      <File FileName="Assets/Scripts/MouseLook.cs" Line="33" Column="1" />
+      <File FileName="Assets/Scripts/PlayerMovement.cs" />
+      <File FileName="Assets/Scripts/DialogueManager.cs" Line="50" Column="30" />
+      <File FileName="Assets/Scripts/DialogueTrigger.cs" />
+      <File FileName="Assets/Scripts/DIalogue.cs" />
+      <File FileName="Assets/Scripts/KeyButton.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/LevelLoader.cs" Line="38" Column="1" />
+      <File FileName="Assets/Scripts/GameEvents.cs" Line="7" Column="29" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -13,20 +16,22 @@
           <Node name="OneLife" expanded="True">
             <Node name="Assets" expanded="True">
               <Node name="Scripts" expanded="True">
-                <Node name="DialogueManager.cs" selected="True" />
+                <Node name="GameEvents.cs" selected="True" />
               </Node>
             </Node>
           </Node>
         </State>
       </Pad>
-      <Pad Id="MonoDevelop.Debugger.WatchPad">
-        <State />
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="OneLife" expanded="True" selected="True" />
+        </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="30fa1ab3-5526-402d-927a-5c3348d2dd80" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="2aa3ac5c-fc36-411e-b09e-fc9716ae5e3d" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
