@@ -73,11 +73,26 @@
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>/Users/jakekaminski/Unity-Projects/OneLife/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
+    <Reference Include="Unity.ProGrids">
+      <HintPath>/Users/jakekaminski/Unity-Projects/OneLife/Library/ScriptAssemblies/Unity.ProGrids.dll</HintPath>
+    </Reference>
     <Reference Include="Unity.VSCode.Editor">
       <HintPath>/Users/jakekaminski/Unity-Projects/OneLife/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
     </Reference>
+    <Reference Include="Unity.ProBuilder">
+      <HintPath>/Users/jakekaminski/Unity-Projects/OneLife/Library/ScriptAssemblies/Unity.ProBuilder.dll</HintPath>
+    </Reference>
     <Reference Include="Unity.Formats.Fbx.Editor">
       <HintPath>/Users/jakekaminski/Unity-Projects/OneLife/Library/ScriptAssemblies/Unity.Formats.Fbx.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.ProBuilder.Editor">
+      <HintPath>/Users/jakekaminski/Unity-Projects/OneLife/Library/ScriptAssemblies/Unity.ProBuilder.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.ProBuilder.AssetIdRemapUtility">
+      <HintPath>/Users/jakekaminski/Unity-Projects/OneLife/Library/ScriptAssemblies/Unity.ProBuilder.AssetIdRemapUtility.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.ProGrids.Editor">
+      <HintPath>/Users/jakekaminski/Unity-Projects/OneLife/Library/ScriptAssemblies/Unity.ProGrids.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Recorder.Editor">
       <HintPath>/Users/jakekaminski/Unity-Projects/OneLife/Library/ScriptAssemblies/Unity.Recorder.Editor.dll</HintPath>
@@ -105,6 +120,9 @@
     </Reference>
     <Reference Include="Autodesk.Fbx">
       <HintPath>/Users/jakekaminski/Unity-Projects/OneLife/Library/ScriptAssemblies/Autodesk.Fbx.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.ProBuilder.AddOns.Editor">
+      <HintPath>/Users/jakekaminski/Unity-Projects/OneLife/Library/ScriptAssemblies/Unity.ProBuilder.AddOns.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
       <HintPath>/Users/jakekaminski/Unity-Projects/OneLife/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>

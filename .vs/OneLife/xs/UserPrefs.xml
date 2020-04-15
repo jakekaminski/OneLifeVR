@@ -1,14 +1,17 @@
 ﻿<Properties StartupConfiguration="{FCB134FD-D4A6-4B27-C2ED-D3C93EA4872D}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/GameEvents.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/DialogueManager.cs">
     <Files>
-      <File FileName="Assets/Scripts/MouseLook.cs" Line="33" Column="1" />
-      <File FileName="Assets/Scripts/PlayerMovement.cs" />
-      <File FileName="Assets/Scripts/DialogueManager.cs" Line="50" Column="30" />
-      <File FileName="Assets/Scripts/DialogueTrigger.cs" />
-      <File FileName="Assets/Scripts/DIalogue.cs" />
+      <File FileName="Assets/Scripts/MouseLook.cs" Line="22" Column="39" IsPinned="True" />
+      <File FileName="Assets/Scripts/PlayerMovement.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/DialogueManager.cs" Line="41" Column="34" />
+      <File FileName="Assets/Scripts/DialogueTrigger.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/DIalogue.cs" Line="1" Column="1" />
       <File FileName="Assets/Scripts/KeyButton.cs" Line="1" Column="1" />
-      <File FileName="Assets/Scripts/LevelLoader.cs" Line="38" Column="1" />
-      <File FileName="Assets/Scripts/GameEvents.cs" Line="7" Column="29" />
+      <File FileName="Assets/Scripts/LevelLoader.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/GameEvents.cs" Line="41" Column="2" />
+      <File FileName="Assets/Scripts/DoorController.cs" Line="22" Column="43" />
+      <File FileName="Assets/Scripts/SceneController.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/TriggerArea.cs" Line="13" Column="49" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -16,22 +19,17 @@
           <Node name="OneLife" expanded="True">
             <Node name="Assets" expanded="True">
               <Node name="Scripts" expanded="True">
-                <Node name="GameEvents.cs" selected="True" />
+                <Node name="DialogueManager.cs" selected="True" />
               </Node>
             </Node>
           </Node>
-        </State>
-      </Pad>
-      <Pad Id="MonoDevelop.UnitTesting.TestPad">
-        <State name="__root__">
-          <Node name="OneLife" expanded="True" selected="True" />
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="2aa3ac5c-fc36-411e-b09e-fc9716ae5e3d" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="9de1f122-d94e-4da4-bbef-fffd0d5a639f" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

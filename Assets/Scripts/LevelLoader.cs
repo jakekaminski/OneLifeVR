@@ -9,16 +9,12 @@ public class LevelLoader : MonoBehaviour
 
     public float transitionTime = 1f;
 
-    // Update is called once per frame
-    void Update()
+    private void Start()
     {
-        if (Input.GetButtonDown("Submit"))
-        {
-            LoadNextLevel();
-        }
+        GameEvents.current.onSceneTriggerEnter += LoadNextLevel;
     }
 
-    public void LoadNextLevel()
+    private void LoadNextLevel()
     {
         StartCoroutine(LoadLevel(SceneManager.GetActiveScene().buildIndex + 1));
     }
